@@ -1991,7 +1991,7 @@ input::-moz-focus-inner {
 
 .intro-text h3 {
   font-family: "Roboto", sans-serif;
-  font-size: 4.8rem;
+  font-size: 4.5rem;
   font-weight: 1000;
   line-height: 1.333;
   color: #ffffff;
@@ -2000,7 +2000,7 @@ input::-moz-focus-inner {
 }
 
 .intro-text h1 {
-  font-size: 7.8rem;
+  font-size: 7.5rem;
   font-weight: 1000;
   line-height: 1.179;
   color: #ffffff;
@@ -2018,7 +2018,7 @@ input::-moz-focus-inner {
   text-transform: uppercase;
   letter-spacing: .3rem;
   position: absolute;
-  bottom: 8rem;
+  bottom: -0.5rem;
   left: 24px;
   z-index: 1;
 }
